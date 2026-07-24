@@ -3,11 +3,11 @@ Hi there, I'm Srikanth Sadagopan 👋✨
 </h1>
 
 <h3 align="center">
-🧑‍💻 Software Engineer &nbsp;|&nbsp; 🤖 AI Enthusiast &nbsp;|&nbsp; 🛡️ Cybersecurity Learner &nbsp;|&nbsp; ☁️ AWS Explorer
+🧑‍💻 Software Engineer &nbsp;|&nbsp; 🤖 AI Enthusiast &nbsp;|&nbsp; 🛡️ Cybersecurity Learner &nbsp;|&nbsp; 🧑‍💻Informatics
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&color=00C9A7&lines=Software+Engineer+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;Cloud+Computing+Learner+%E2%98%81%EF%B8%8F;AI+Explorer+%F0%9F%A4%96;Product+Design+Enthusiast+%F0%9F%8E%A8;Always+Learning+Something+New+%F0%9F%8C%B1"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&color=00C9A7&lines=Software+Engineer+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;Informatics+%F0%9F%92%BB;AI+Explorer+%F0%9F%A4%96;Product+Design+Enthusiast+%F0%9F%8E%A8;Learning+Something+New+%F0%9F%8C%B1"/>
 </p>
 
 ## 🚀 About Me
@@ -15,9 +15,9 @@ Hi there, I'm Srikanth Sadagopan 👋✨
 - 🎓 **Bachelor's** in Information Science & Engineering
 - 💼 Former **iOS Developer Trainee** @ ANZ
 - 💻 Former **Software Development Intern** @ Trukker
-- 🚀 **Startup Promotion Club** Member
-- 🌱 Currently diving into **AI, Cybersecurity, Cloud Computing, Product Design & AI-powered Automation**
+- 🌱 Currently diving into **AI, Cybersecurity, Informatics, Cloud Computing, Product Design & AI-powered Automation**
 - 💡 I love learning across multiple domains instead of boxing myself into one specialization
+- 🚀 **Former Promotion Leader of Startup Club CMRIT** 
 
 ## 💻 Tech Stack
 
