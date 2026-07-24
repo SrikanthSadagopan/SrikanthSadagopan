@@ -10,12 +10,6 @@ Hi there, I'm Srikanth Sadagopan 👋✨
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&color=00C9A7&lines=Software+Engineer+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;Cloud+Computing+Learner+%E2%98%81%EF%B8%8F;AI+Explorer+%F0%9F%A4%96;Product+Design+Enthusiast+%F0%9F%8E%A8;Always+Learning+Something+New+%F0%9F%8C%B1"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=00C9A7&label=Profile%20Views&query=%24.count&url=https://api.countapi.xyz/hit/SrikanthSadagopan/profile&style=for-the-badge"/>
-</p>
-
----
-
 ## 🚀 About Me
 
 - 🎓 **Bachelor's** in Information Science & Engineering
