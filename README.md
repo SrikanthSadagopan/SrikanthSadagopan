@@ -1,14 +1,232 @@
-# 💫 About Me:
-<br># Hi there, I'm Srikanth Sadagopan 👋<br><br>I'm a technology enthusiast who enjoys building software, exploring emerging technologies, and continuously learning across multiple domains.<br><br>🎓 Graduated with a **Bachelor's degree in Information Science & Engineering**, where I built a strong foundation in software development, data structures, databases, networking, and web technologies.<br><br>💼 I worked as an **iOS Developer Trainee at ANZ**, gaining experience in enterprise application development and modern software engineering practices. Prior to that, I was a **Software Development Intern at Trukker**, where I contributed to real-world software projects and strengthened my programming and problem-solving skills.
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)<br><br>🌱 I love exploring different domains instead of limiting myself to a single career path. I'm currently learning and building in areas such as:<br><br>- 🤖 Artificial Intelligence & Automation<br>- 🧠 AI Workflows & Agentic AI<br>- 🔐 Cybersecurity<br>- ☁️ Cloud Computing (AWS)<br>- 🐍 Python Development<br>- 🎨 Product Design & UI/UX<br>- 🎥 Content Creation<br>- ✍️ AI-Powered Content Generation<br><br>🚀 During college, I was a member of the **Startup Promotion Club**, collaborating with startups, organizing promotional campaigns, coordinating events, creating content, and supporting entrepreneurial initiatives on campus. This experience helped me develop strong communication, leadership, marketing, and teamwork skills.<br>
+<!-- ========================================= -->
+<!--              PROFILE BANNER               -->
+<!-- ========================================= -->
 
+<p align="center">
+  <img src="banner.png" width="100%" alt="Banner"/>
+</p>
 
-💡 I believe technology evolves every day, and so should we. My goal is to build impactful products, contribute to open source, solve real-world problems, and continuously grow as an engineer and creator.<br><br>> **"Always learning. Always building. Always exploring."** 🚀
+<h1 align="center">
+Hi 👋 I'm Srikanth Sadagopan
+</h1>
 
+<h3 align="center">
+Software Engineer • AI Enthusiast • Cybersecurity Learner • AWS Explorer
+</h3>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s.srikanthsurender@gmail.com) 
+<p align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&color=00C9A7&lines=Software+Engineer;Cybersecurity+Enthusiast;Cloud+Computing+Learner;AI+Explorer;Product+Design+Enthusiast;Always+Learning+Something+New"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</p>
+
+---
+
+# 🚀 About Me
+
+I'm a technology enthusiast passionate about building software, solving problems, and exploring emerging technologies.
+
+🎓 Bachelor's in Information Science & Engineering
+
+💼 Former iOS Developer Trainee @ ANZ
+
+💻 Former Software Development Intern @ Trukker
+
+🚀 Startup Promotion Club Member
+
+🌱 Currently exploring AI, Cybersecurity, Cloud Computing, Product Design, and AI-powered Automation.
+
+💡 I enjoy learning across multiple domains instead of limiting myself to one specialization.
+
+---
+
+# 🌱 Learning & Exploring
+
+- 🤖 Artificial Intelligence
+- 🧠 AI Workflows
+- 🔥 Agentic AI
+- 🔐 Cybersecurity
+- ☁️ AWS Cloud
+- 🐍 Python Automation
+- 🎨 Product Design
+- 📱 UI/UX
+- 🎥 Content Creation
+- ✍️ AI Content Generation
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,swift,js,html,css,django,flask,git,github,linux,docker,aws,mysql,mongodb,vscode,figma"/>
+
+</p>
+
+---
+
+# 🛠 Additional Skills
+
+### 🎨 Design
+
+- UI/UX Design
+- Product Design
+- User Research
+- AI Assisted Design
+- Canva
+- Adobe Express
+- Figma
+
+---
+
+### 🔐 Cybersecurity
+
+- Linux
+- Virtual Machines
+- Networking
+- Nmap
+- Wireshark
+- WHOIS
+- OSINT
+- Burp Suite 
+
+---
+
+### ⚙ Software Methodologies
+
+- Agile
+- Waterfall
+- Spiral
+- SDLC
+
+---
+
+### 🤝 Professional Skills
+
+- Leadership
+- Communication
+- Team Collaboration
+- Adaptability
+- Problem Solving
+- Time Management
+- Critical Thinking
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🛒 Django E-Commerce | Complete e-commerce platform using Django |
+| 🔐 Cybersecurity Labs | Networking, SIEM & Security Labs |
+| ☁️ AWS Projects | Cloud Computing and AWS practice |
+| 🤖 AI Automation | AI workflows and automation projects |
+| 🎨 Product Design | UI/UX and Product Design Case Studies |
+| 🐍 Python Projects | Python scripts and automation |
+
+---
+
+# 🌎 Connect With Me
+
+<p align="center">
+
+<a href="mailto:@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOURUSERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://instagram.com/YOURUSERNAME">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
+
+</p>
+
+---
+
+# 💬 Quote
+
+<p align="center">
+
+> **"Technology evolves every day, and so should we."**
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+```text
+while(alive){
+
+    Learn();
+
+    Build();
+
+    Share();
+
+    Repeat();
+
+}
+```
+
+---
+
+<p align="center">
+
+⭐ If you like my work, consider giving a star to my repositories!
+
+</p>
