@@ -11,21 +11,12 @@ Hi there, I'm Srikanth Sadagopan 👋✨
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=00C9A7&label=Profile%20Views&query=%24.count&url=https://api.countapi.xyz/hit/YOUR_USERNAME/profile&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/dynamic/json?color=00C9A7&label=Profile%20Views&query=%24.count&url=https://api.countapi.xyz/hit/SrikanthSadagopan/profile&style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🚀 About Me
-
-```yaml
-name: Srikanth Sadagopan
-role: Software Engineer & Multi-Domain Tech Explorer
-location: Bengaluru, India 🇮🇳
-education: B.E. Information Science & Engineering 🎓
-currently_exploring: [AI 🤖, Cybersecurity 🔐, Cloud ☁️, Product Design 🎨]
-fun_fact: "Always learning, always building" 🌱
-```
 
 - 🎓 **Bachelor's** in Information Science & Engineering
 - 💼 Former **iOS Developer Trainee** @ ANZ
