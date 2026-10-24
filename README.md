@@ -3,7 +3,7 @@ Hi there, I'm Srikanth Sadagopan 👋✨
 </h1>
 
 <h3 align="center">
-🧑‍💻 Software Engineer &nbsp;|&nbsp; 🤖 AI Enthusiast &nbsp;|&nbsp; 🛡️ Cybersecurity Learner &nbsp;|&nbsp; 🧑‍💻Informatics
+🛡️ Cybersecurity Aspirant &nbsp;|&nbsp; 🤖 AI Enthusiast &nbsp;|&nbsp; 🧑‍💻SOC   &nbsp;|&nbsp; 🧑‍💻Blue Team
 </h3>
 
 <p align="center">
@@ -15,7 +15,7 @@ Hi there, I'm Srikanth Sadagopan 👋✨
 - 🎓 **Bachelor's** in Information Science & Engineering
 - 💼 Former **iOS Developer Trainee** @ ANZ
 - 💻 Former **Software Development Intern** @ Trukker
-- 🌱 Currently diving into **AI, Cybersecurity, Informatics, Cloud Computing, Product Design & AI-powered Automation**
+- 🌱 Currently diving into **AI, Cybersecurity,Blue Team,Monitoring, Product Design & AI-powered Automation**
 - 💡 I love learning across multiple domains instead of boxing myself into one specialization
 - 🚀 **Former Promotion Leader of Startup Club CMRIT** 
 
